@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+
+= Machine Learning Reading Group @ IITR 
+
+== Reading List
+
+- Tensor Decomposition
+- Variational Inference
+- Deep-Q Learning
+- Localisation in Self-Driving Cars
